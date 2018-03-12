@@ -1,6 +1,6 @@
 # maven-project
 This is my Maven project from MuleSoft's advanced development class.
- How to run the project
+## How to run the project
 1. Add the remote repository: `git remote add origin
 https://github.com/bharath894/maven-project.git`
 2. Enter the repo: `cd maven-project`
