@@ -4,7 +4,7 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mulesoft.training</groupId>
-	<artifactId>maven-project-red1</artifactId>
+	<artifactId>maven-project-red2</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule</packaging>
 	<name>Mule maven-project Application</name>
@@ -16,8 +16,8 @@
 		<mule.version>3.8.4</mule.version>
 		<mule.tools.version>1.2</mule.tools.version>
 		<activemq.version>5.15.2</activemq.version>
-		<uid>bharath149</uid>
-		<pwd></pwd>
+		<uid>bharath405</uid>
+		<pwd>Reddy@12345</pwd>
 	</properties>
 
 	<build>
